@@ -49,26 +49,30 @@ We hope to see you on our lectures!
 |===
 | ^|Topics              ^|Trainers
 
-|{counter:index-2022}| Risk Management
+|{counter:index-2022}| Risk Management - basics
 a|
 * {askaniusz-ferens}
-* Sławomir Staciwa
+
 
 |{counter:index-2022}| Cyber awareness
 a|
+* Sławomir Staciwa
+
+|{counter:index-2022}| Identity and Access Management
+a|
 * Jacek Kocyba
 
-|{counter:index-2022}| Identity and Access Management and password vaults
-a|
-* Mateusz Kozieł
-
-|{counter:index-2022}| Cryptography
+|{counter:index-2022}| Cryptography - basics
 a|
 * Jacek Kocyba
 
 |{counter:index-2022}| Secure Configuration Monitoring
 a|
 * {maciej-wrobel}
+
+|{counter:index-2022}| Password vaults
+a|
+* Mateusz Kozieł
 
 |{counter:index-2022}| Vulnerability Assessment
 a|
