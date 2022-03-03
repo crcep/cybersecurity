@@ -12,8 +12,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install
-        run: |
-          sudo gem install asciidoctor
+        run: sudo gem install asciidoctor
 
       - name: README to HTML
         run: asciidoctor README.adoc -o index.html -D build
