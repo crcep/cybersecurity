@@ -130,7 +130,7 @@ a|
 |===
 | *Number of hours*     | `10 hours`
 | *Number of meetings*  | `2 meetings, 2 Saturdays`
-| *Form of meeting*     | `on-line`
+| *Form of meeting*     | `on-site`
 |===
 
 [cols="^.^1,.^10,.^6",align="center"]
@@ -148,7 +148,6 @@ a|
 
 |{counter:index-2019}| Vulnerability Assessment
 a|
-* {lukasz-jankowski}
 * {damian-krawczyk}
 |===
 
