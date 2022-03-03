@@ -4,8 +4,6 @@ on:
     branches: [ master, main ]
   pull_request:
     branches: [ master, main ]
-env:
-  source_file_name: README
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
