@@ -29,7 +29,8 @@ endif::[]
 
 = Cybersecurity: defense in modern organizations
 
-Material presented on our lectures will let you prepare to put the first steps into Cybersecurity domain from corporate point of view. You will have a chance to listen, discuss and even take a part with job covered by us on daily basis. If you are interested in Information Security and you want to broaden your knowledge in this field we invite you to meet us. +
+image:https://img.shields.io/github/stars/crcep/cybersecurity?label=Stars%20from%20users&style=social[GitHub Repo stars,link="https://github.com/crcep/cybersecurity"]
+
 We hope to see you on our lectures!
 
 == 2022
