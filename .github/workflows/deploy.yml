@@ -1,0 +1,27 @@
+name: Build and Deploy
+on:
+  push:
+    branches: [ master, main ]
+  pull_request:
+    branches: [ master, main ]
+env:
+  source_file_name: README
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Install
+        run: |
+          sudo gem install asciidoctor
+
+      - name: README to HTML
+        run: asciidoctor README.adoc -o index.html -D build
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.2.0
+        with:
+          branch: gh-pages
+          folder: build

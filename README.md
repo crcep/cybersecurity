@@ -1,2 +1,0 @@
-# cybersecurity
-Cybersecurity page

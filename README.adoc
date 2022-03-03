@@ -1,0 +1,186 @@
+include::config.adoc[]
+= Cybersecurity: defense in modern organizations
+
+Material presented on our lectures will let you prepare to put the first steps into Cybersecurity domain from corporate point of view. You will have a chance to listen, discuss and even take a part with job covered by us on daily basis. If you are interested in Information Security and you want to broaden your knowledge in this field we invite you to meet us. +
+We hope to see you on our lectures!
+
+== 2022
+
+[cols="2,3",align="center"]
+|===
+| *Number of hours*     | `24 hours`
+| *Number of meetings*  | `4 meetings, 4 Saturdays`
+| *Form of meeting*     | `on-line`
+|===
+
+[cols="^.^1,.^10,.^6",align="center"]
+|===
+| ^|Topics              ^|Trainers
+
+|{counter:index-2022}| Risk Management
+a|
+* {askaniusz-ferens}
+* Sławomir Staciwa
+
+|{counter:index-2022}| Cyber awareness
+a|
+* Jacek Kocyba
+
+|{counter:index-2022}| Identity and Access Management and password vaults
+a|
+* Mateusz Kozieł
+
+|{counter:index-2022}| Cryptography
+a|
+* Jacek Kocyba
+
+|{counter:index-2022}| Secure Configuration Monitoring
+a|
+* {maciej-wrobel}
+
+|{counter:index-2022}| Vulnerability Assessment
+a|
+* {lukasz-jankowski}
+* {damian-krawczyk}
+
+|{counter:index-2022}| Cloud Native Security
+a|
+* {damian-krawczyk}
+
+|{counter:index-2022}| Offensive Cybersecurity
+a|
+* Jakub Plusczok
+
+|===
+
+== 2021
+
+[cols="2,3",align="center"]
+|===
+| *Number of hours*     | `10 hours`
+| *Number of meetings*  | `2 meetings, 2 Saturdays`
+| *Form of meeting*     | `on-line`
+|===
+
+[cols="^.^1,.^10,.^6",align="center"]
+|===
+| ^|Topics              ^|Trainers
+
+|{counter:index-2021}| Defensive Cyber Security
+a|
+* {askaniusz-ferens}
+
+|{counter:index-2021}| Technical State Compliance Monitoring
+a|
+* {maciej-wrobel}
+
+|{counter:index-2021}| Vulnerability Assessment
+a|
+* {lukasz-jankowski}
+* {damian-krawczyk}
+
+|{counter:index-2021}| Cloud Native Security
+a|
+* {damian-krawczyk}
+
+|{counter:index-2021}| Secure Software Lifecycle
+a|
+* {damian-krawczyk}
+|===
+
+== 2019
+
+[cols="2,3",align="center"]
+|===
+| *Number of hours*     | `10 hours`
+| *Number of meetings*  | `2 meetings, 2 Saturdays`
+| *Form of meeting*     | `on-line`
+|===
+
+[cols="^.^1,.^10,.^6",align="center"]
+|===
+| ^|Topics              ^|Trainers
+
+|{counter:index-2019}| Defensive Cyber Security
+a|
+* {askaniusz-ferens}
+* Sławomir Staciwa
+
+|{counter:index-2019}| Technical State Compliance Monitoring
+a|
+* {maciej-wrobel}
+
+|{counter:index-2019}| Vulnerability Assessment
+a|
+* {lukasz-jankowski}
+* {damian-krawczyk}
+|===
+
+== Instruction
+
+[WARNING]
+====
+*Start following the instruction below only after receiving the invitation via e-mail.*
+====
+
+1. Join `crcep` Organization at GitHub by clicking green button kbd:[Join @crcep] in the invitation message send to your e-mail address given during registration to Corporate Readiness Certificate Educational Program.
+
+[NOTE]
+====
+Invitation will be send from noreply@github.com e-mail address as shown below.
+
+image:crcep-invitation.png[]
+====
+
+[start=2]
+2. Login using your GitHub account if you already heave it or create new GitHub account.
+
+[WARNING]
+====
+If you decide to create new GitHub account you can use any e-mail address, but **remember to verify your e-mail address at GitHub**.
+
+image:github-new-account.png[]
+====
+
+[start=3]
+3. Go to https://github.com/settings/organizations[github.com/settings/organizations] and check if you see `crcep` organization on the list of organizations at GitHub to which you belong.
+
+[WARNING]
+====
+If you don't see `crcep` on the list of organizations go back to invitation message mentioned in the first point and click again green button kbd:[Join @crcep].
+
+You should see prompt to join CRC EP, click green button kbd:[Join CRC EP] as shown below.
+
+image:crcep-join.png[]
+====
+
+[start=4]
+4. Check rest of the details in GitHub *private* {repository} dedicated for these lectures.
+
+[IMPORTANT]
+====
+*All communication will be send to you via GitHub notifications.* +
+**Remember to click as shown below for this {repository}:**
+
+* 👁 kbd:[Watch] > kbd:[All activity]
+* ⭐️ kbd:[Star]
+
+image:crcep-watch-star.png[]
+====
+
+[start=5]
+5. Check {lectures-timetable} 🗓.
+
+6. Check {passing-criteria} ✅.
+
+7. Say hello 👋 to everyone and {repository-discussion-hello}.
+
+8. Feel free to start new {repository-discussions}. Remember to tag appropriate group to make sure that they will receive notification about your post.
+
+* `@crcep/cybersecurity-trainers-2022`
+* `@crcep/cybersecurity-class-2022`
+
+[TIP]
+====
+You can install GitHub app on your smartphone, go to https://github.com/mobile[github.com/mobile] to have even easier access to all information needed or to take a part in discussions.
+====
