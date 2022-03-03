@@ -10,7 +10,7 @@
 :repository-discussion-hello: https://github.com/crcep/cybersecurity-2022/discussions/1[introduce yourself]
 
 
-:toc:
+:toc: left
 :toc-title:
 :sectanchors:
 :icons: font
