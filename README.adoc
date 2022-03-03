@@ -18,6 +18,7 @@
 :nofooter:
 :experimental:
 :imagesdir: images
+:docinfo1:
 
 ifdef::env-github[]
 :tip-caption: :bulb:
