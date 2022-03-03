@@ -1,4 +1,5 @@
 include::config.adoc[]
+
 = Cybersecurity: defense in modern organizations
 
 Material presented on our lectures will let you prepare to put the first steps into Cybersecurity domain from corporate point of view. You will have a chance to listen, discuss and even take a part with job covered by us on daily basis. If you are interested in Information Security and you want to broaden your knowledge in this field we invite you to meet us. +
