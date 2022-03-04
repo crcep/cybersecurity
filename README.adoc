@@ -2,6 +2,9 @@
 :maciej-wrobel: https://www.linkedin.com/in/maciejwrobel[Maciej Wróbel]
 :askaniusz-ferens: https://www.linkedin.com/in/asek-ferens[Askaniusz Ferens]
 :lukasz-jankowski: https://www.linkedin.com/in/łukasz-jankowski-001793193[Łukasz Jankowski]
+:jacek-kocyba: https://www.linkedin.com/in/jacek-kocyba-49a5a2a0[Jacek Kocyba]
+:jakub-plusczok: https://www.linkedin.com/in/jakubplusczok[Jakub Plusczok]
+:slawomir-staciwa: https://www.linkedin.com/in/sstaciwa/[Sławomir Staciwa]
 
 :lectures-timetable: https://github.com/crcep/cybersecurity-2022#lectures-timetable[lectures timetable]
 :passing-criteria: https://github.com/crcep/cybersecurity-2022#passing-criteria[passing criteria]
@@ -57,43 +60,32 @@ a|
 | ^|Topics              ^|Trainers
 
 |{counter:index-2022}| Risk Management - basics
-a|
-* {askaniusz-ferens}
-
+a|* {askaniusz-ferens}
 
 |{counter:index-2022}| Cyber awareness
-a|
-* Sławomir Staciwa
+a|* {slawomir-staciwa}
 
 |{counter:index-2022}| Identity and Access Management
-a|
-* Jacek Kocyba
+a|* {jacek-kocyba}
 
 |{counter:index-2022}| Cryptography - basics
-a|
-* Jacek Kocyba
+a|* {jacek-kocyba}
 
 |{counter:index-2022}| Secure Configuration Monitoring
-a|
-* {maciej-wrobel}
+a|* {maciej-wrobel}
 
 |{counter:index-2022}| Password vaults
-a|
-* Mateusz Kozieł
+a|* Mateusz Kozieł
 
 |{counter:index-2022}| Vulnerability Assessment
-a|
-* {lukasz-jankowski}
+a|* {lukasz-jankowski}
 * {damian-krawczyk}
 
 |{counter:index-2022}| Cloud Native Security
-a|
-* {damian-krawczyk}
+a|* {damian-krawczyk}
 
 |{counter:index-2022}| Offensive Cybersecurity
-a|
-* Jakub Plusczok
-
+a|* {jakub-plusczok}
 |===
 
 == 2021
@@ -110,25 +102,20 @@ a|
 | ^|Topics              ^|Trainers
 
 |{counter:index-2021}| Defensive Cyber Security
-a|
-* {askaniusz-ferens}
+a|* {askaniusz-ferens}
 
 |{counter:index-2021}| Technical State Compliance Monitoring
-a|
-* {maciej-wrobel}
+a|* {maciej-wrobel}
 
 |{counter:index-2021}| Vulnerability Assessment
-a|
-* {lukasz-jankowski}
+a|* {lukasz-jankowski}
 * {damian-krawczyk}
 
 |{counter:index-2021}| Cloud Native Security
-a|
-* {damian-krawczyk}
+a|* {damian-krawczyk}
 
 |{counter:index-2021}| Secure Software Lifecycle
-a|
-* {damian-krawczyk}
+a|* {damian-krawczyk}
 |===
 
 == 2019
@@ -145,17 +132,14 @@ a|
 | ^|Topics              ^|Trainers
 
 |{counter:index-2019}| Defensive Cyber Security
-a|
-* {askaniusz-ferens}
-* Sławomir Staciwa
+a|* {askaniusz-ferens}
+* {slawomir-staciwa}
 
 |{counter:index-2019}| Technical State Compliance Monitoring
-a|
-* {maciej-wrobel}
+a|* {maciej-wrobel}
 
 |{counter:index-2019}| Vulnerability Assessment
-a|
-* {damian-krawczyk}
+a|* {damian-krawczyk}
 |===
 
 == Instruction
