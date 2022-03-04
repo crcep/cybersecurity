@@ -38,11 +38,18 @@ We hope to see you at our lectures!
 
 == 2022
 
-[cols="2,3",align="center"]
+[cols=".^2,3",align="center"]
 |===
 | *Number of hours*     | `24 hours`
 | *Number of meetings*  | `4 meetings, 4 Saturdays`
 | *Form of meeting*     | `on-line`
+| *Schedule*
+a|
+* `2022-03-19 09:00-16:00 +0100 (CET)` +
+* `2022-03-26 09:00-16:00 +0100 (CET)` +
+* `2022-04-02 09:00-16:00 +0200 (CEST)` +
+* `2022-04-09 09:00-16:00 +0200 (CEST)`
+
 |===
 
 [cols="^.^1,.^10,.^6",align="center"]
