@@ -14,6 +14,7 @@
 
 
 :toc: left
+:toclevels: 1
 :toc-title:
 :sectanchors:
 :icons: font
@@ -197,6 +198,24 @@ a|* {damian-krawczyk}
 a|* {damian-krawczyk}
 |===
 
+[#feedback-2021]
+=== feedback
+
+Here are a few opinions from our training participants in *CRC'21*:
+
+[quote, 2021 training participant 1]
+Great course, thanks!
+
+[quote, 2021 training participant 2]
+It is a pity that the course only lasted two days. There was no time to bite into the topic :)
+
+[quote, 2021 training participant 3]
+Even more labs would be welcome ;)
+
+[quote, 2021 training participant 4]
+In my opinion more practical exercises would be better, also homework tasks would be welcome too.
+
+[#2019]
 == 2019
 
 [cols="2,3",align="center"]
@@ -229,6 +248,26 @@ a|* {damian-krawczyk}
 |{counter:index-2019}| Technical State Compliance Monitoring
 a|* {maciej-wrobel}
 |===
+
+[#feedback-2019]
+=== feedback
+
+Here are a few opinions from our training participants in *CRC'19*:
+
+[quote, 2019 training participant 1]
+It was very helpful to understand security principles.
+
+[quote, 2019 training participant 2]
+I really liked hearing the entire course finished in just two meetings and all the conversations during the breaks, so I think this is definitely what should stay.
+
+[quote, 2019 training participant 3]
+Such a course should be at the university as a subject throughout the whole semester. Too many interesting things to explain in 16h.
+
+[quote, 2019 training participant 4]
+I believe that the course should consist of more classes, as a consequence of which each topic would be discussed in more detail, which would translate into its better understanding and consolidation. The course was very interesting and I am glad to be able to take part in it.
+
+[quote, 2019 training participant 5]
+Two Saturdays is not enough. Ideally, for example, 6 Saturdays.
 
 [#instruction]
 == Instruction
