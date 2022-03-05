@@ -115,6 +115,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
 </script>
 ++++
 
+[#2022]
 == 2022
 
 [cols=".^2,3",align="center"]
@@ -164,6 +165,7 @@ a|* {damian-krawczyk}
 a|* {jakub-plusczok}
 |===
 
+[#2021]
 == 2021
 
 [cols="2,3",align="center"]
@@ -227,6 +229,7 @@ a|* {damian-krawczyk}
 a|* {maciej-wrobel}
 |===
 
+[#instruction]
 == Instruction
 
 [WARNING]
