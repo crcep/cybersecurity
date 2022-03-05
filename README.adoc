@@ -22,6 +22,7 @@
 :experimental:
 :imagesdir: images
 :docinfo1:
+:revdate:       Last updated on {localdatetime}
 
 ifdef::env-github[]
 :tip-caption: :bulb:
