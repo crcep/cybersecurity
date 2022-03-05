@@ -203,7 +203,9 @@ a|* {damian-krawczyk}
 [#feedback-2021]
 === feedback
 
-Here are a few opinions from our training participants in *CRC'21*:
+Here are some opinions from our training participants in *CRC'21*:
+
+image::crc-cybersecurity-survey-2021.png[CRC Cybersecurity survey 2021, align="center"]
 
 [quote, 2021 training participant 1]
 Great course, thanks!
@@ -254,7 +256,9 @@ a|* {maciej-wrobel}
 [#feedback-2019]
 === feedback
 
-Here are a few opinions from our training participants in *CRC'19*:
+Here are some opinions from our training participants in *CRC'19*:
+
+image::crc-cybersecurity-survey-2019.png[CRC Cybersecurity survey 2019, align="center"]
 
 [quote, 2019 training participant 1]
 It was very helpful to understand security principles.
