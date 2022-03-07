@@ -444,12 +444,81 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <meta property="og:locale" content="en_GB" />
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.10/clipboard.min.js"></script>
+
+<style>
+    .listingblock:hover .clipboard {
+        display: block;
+    }
+
+    .clipboard {
+        display: none;
+        border: 0;
+        font-size: .75em;
+        text-transform: uppercase;
+        font-weight: 500;
+        padding: 6px;
+        color: #000000;
+        position: absolute;
+        top: .425rem;
+        right: .5rem;
+        background: #c5c5c5;
+    }
+
+    code + .clipboard {
+        top: 2rem !important;
+    }
+
+    .clipboard:hover, .clipboard:focus, .clipboard:active {
+        outline: 0;
+        background-color: #545454;
+    }
+</style>
+<script >
+    window.onload = function() {
+        var pre = document.getElementsByTagName('pre');
+        for (var i = 0; i < pre.length; i++) {
+            var b = document.createElement('button');
+            b.className = 'clipboard';
+            b.textContent = 'Copy';
+            if (pre[i].childNodes.length === 1 && pre[i].childNodes[0].nodeType === 3) {
+                var div = document.createElement('div');
+                div.textContent = pre[i].textContent;
+                pre[i].textContent = '';
+                pre[i].appendChild(div);
+            }
+            pre[i].appendChild(b);
+        }
+        var clipboard = new ClipboardJS('.clipboard', {
+           target: function(b) {
+                var p = b.parentNode;
+                if (p.className.includes("highlight")) {
+                    var elems = p.getElementsByTagName("code");
+                    if (elems.length > 0)
+                        return elems[0];
+                }
+                return p.childNodes[0];
+            }
+        });
+        clipboard.on('success', function(e) {
+            e.clearSelection();
+            e.trigger.textContent = 'Copied';
+            setTimeout(function() {
+                e.trigger.textContent = 'Copy';
+            }, 2000);
+        });
+        clipboard.on('error', function(e) {
+            console.error('Action:', e.action, e);
+            console.error('Trigger:', e.trigger);
+        });
+    };
+</script>
 </head>
 <body class="article toc2 toc-left">
 <div id="header">
 <h1>Cybersecurity: defense in modern organizations</h1>
 <div class="details">
-<span id="revdate">Last updated on 2022-03-05 15:16:53 UTC</span>
+<span id="revdate">Last updated on 2022-03-07 08:25:42 UTC</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle"></div>
@@ -716,6 +785,29 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
 </tr>
 </tbody>
 </table>
+<div class="sect2">
+<h3 id="lectures-timetable-2022"><a class="anchor" href="#lectures-timetable-2022"></a>lectures timetable</h3>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FWarsaw&showTitle=1&title=CRC%20Cybersecurity%202022&showPrint=0&mode=AGENDA&hl=en_GB&showCalendars=0&showTabs=0&showDate=0&showNav=0&showTz=0&src=cDc5aTZqOWFna20xYWI5aTJiN3JnZW40NGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23EF6C00" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="admonitionblock tip">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-tip" title="Tip"></i>
+</td>
+<td class="content">
+<div class="paragraph">
+<p>Click <a href="https://calendar.google.com/calendar/ical/p79i6j9agkm1ab9i2b7rgen44c%40group.calendar.google.com/public/basic.ics">HERE</a> or copy below address of <strong>CRC Cybersecurity 2022</strong> calendar in iCal format to subscribe and have always up-to-date schedule in your smartphone 📲.</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre>https://calendar.google.com/calendar/ical/p79i6j9agkm1ab9i2b7rgen44c%40group.calendar.google.com/public/basic.ics</pre>
+</div>
+</div>
+</div>
 </div>
 </div>
 <div class="sect1">
