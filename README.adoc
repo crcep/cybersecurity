@@ -40,7 +40,7 @@ image:https://img.shields.io/github/stars/crcep/cybersecurity?label=Stars%20from
 image::https://avatars.githubusercontent.com/u/83579804[CRC logo, 200, align="center"]
 
 [quote, Cybersecurity stream]
-The material presented in our lectures will let you prepare to put the first steps into the Cybersecurity domain from the corporate point of view. You will have a chance to listen, discuss and even take a part in a job performed by us on daily basis. If you are interested in Information Security and you want to broaden your knowledge in this field we invite you to meet us. +
+The material presented in our lectures will let you prepare to put the first steps into the Cybersecurity domain from the corporate point of view. You will have a chance to listen, discuss and even take part in a job performed by us daily. If you are interested in Information Security and want to broaden your knowledge in this field, we invite you to meet us. +
 We hope to see you at our lectures!
 
 ++++
@@ -140,11 +140,11 @@ a|
 |===
 | ^|Topics              ^|Trainers
 
-|{counter:index-2022}| Risk Management - basics
-a|* {askaniusz-ferens}
-
 |{counter:index-2022}| Cyber awareness
 a|* {slawomir-staciwa}
+
+|{counter:index-2022}| Risk Management - basics
+a|* {askaniusz-ferens}
 
 |{counter:index-2022}| Identity and Access Management
 a|* {jacek-kocyba}
