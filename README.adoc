@@ -385,6 +385,44 @@ I believe that the course should consist of more classes, as a consequence of wh
 [quote, 2019 training participant {counter:participant-2019}]
 Two Saturdays is not enough. Ideally, for example, 6 Saturdays.
 
+[#2018]
+== 2018
+
+[cols="2,3",align="center"]
+|===
+| *Number of hours*     | `12 hours`
+| *Number of meetings*  | `6 meetings`
+| *Form of meeting*     | `on-site`
+|===
+
+[cols="^.^1,.^10,.^6",align="center"]
+|===
+| ^|Topics              ^|Trainers
+
+|{counter:index-2018}| Who attacks the organization and how (OWASP TOP 10, ASVS and protection methods) - part 1
+a|* Krzysztof Cudak
+
+|{counter:index-2018}| Who attacks the organization and how (OWASP TOP 10, ASVS and protection methods) - part 2
+a|* Krzysztof Cudak
+
+|{counter:index-2018}| Simulation and detection of APT attack in an organization - part 1
+a|* Mariusz Derela
+* Michał Terbert
+* Krzysztof Kuźnik
+
+|{counter:index-2018}| Simulation and detection of APT attack in an organization - part 2
+a|* Mariusz Derela
+* Michał Terbert
+* Krzysztof Kuźnik
+
+|{counter:index-2018}| Vulnerability types, classification and detection
+a|* {maciej-wrobel}
+
+|{counter:index-2018}| Designing tests to verify configuration and detect vulnerabilities
+a|* {maciej-wrobel}
+
+|===
+
 [#instruction]
 == Instruction
 
