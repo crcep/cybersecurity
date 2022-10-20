@@ -169,21 +169,21 @@ a|* {damian-krawczyk}
 a|* {jakub-plusczok}
 |===
 
-//[#lectures-timetable-2022]
-//=== lectures timetable
-//
-//++++
-//<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FWarsaw&showTitle=1&title=CRC%20Cybersecurity%202022&showPrint=0&mode=AGENDA&hl=en_GB&showCalendars=0&showTabs=0&showDate=0&showNav=0&showTz=0&src=cDc5aTZqOWFna20xYWI5aTJiN3JnZW40NGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23EF6C00" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-//++++
-//
-//[TIP]
-//====
-//Click https://calendar.google.com/calendar/ical/p79i6j9agkm1ab9i2b7rgen44c%40group.calendar.google.com/public/basic.ics[HERE] or copy below address of *CRC Cybersecurity 2022* calendar in iCal format to subscribe and have always up-to-date schedule in your smartphone 📲.
-//====
-//
-//----
-//https://calendar.google.com/calendar/ical/p79i6j9agkm1ab9i2b7rgen44c%40group.calendar.google.com/public/basic.ics
-//----
+[#lectures-timetable-2022]
+=== lectures timetable
+
+++++
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FWarsaw&showTitle=1&title=CRC%20Cybersecurity%202022&showPrint=0&mode=AGENDA&hl=en_GB&showCalendars=0&showTabs=0&showDate=0&showNav=0&showTz=0&src=cDc5aTZqOWFna20xYWI5aTJiN3JnZW40NGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23EF6C00" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+++++
+
+[TIP]
+====
+Click https://calendar.google.com/calendar/ical/p79i6j9agkm1ab9i2b7rgen44c%40group.calendar.google.com/public/basic.ics[HERE] or copy below address of *CRC Cybersecurity 2022* calendar in iCal format to subscribe and have always up-to-date schedule in your smartphone 📲.
+====
+
+----
+https://calendar.google.com/calendar/ical/p79i6j9agkm1ab9i2b7rgen44c%40group.calendar.google.com/public/basic.ics
+----
 
 [#feedback-2022]
 === feedback
