@@ -423,6 +423,39 @@ a|* {maciej-wrobel}
 
 |===
 
+[#2017]
+== 2017
+
+[cols="2,3",align="center"]
+|===
+| *Number of hours*     | `15 hours`
+| *Number of meetings*  | `5 meetings`
+| *Form of meeting*     | `on-site`
+|===
+
+[cols="^.^1,.^10,.^6",align="center"]
+|===
+| ^|Topics              ^|Trainers
+
+|{counter:index-2017}| IT Security and Cybercrime - introduction
+a|* Łukasz Miedziński
+
+|{counter:index-2017}| IT Risk management processes
+a|* Łukasz Miedziński
+
+|{counter:index-2017}| IT security assurance in the final users environments - as the security ensurence of end-user environments
+a|* Łukasz Miedziński
+
+|{counter:index-2017}| IT security - networks and applications
+a|* Łukasz Miedziński
+
+|{counter:index-2017}| Vulnerability Management
+a|* Łukasz Miedziński
+
+
+
+|===
+
 [#instruction]
 == Instruction
 
