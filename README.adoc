@@ -4,13 +4,19 @@
 :lukasz-jankowski: https://www.linkedin.com/in/łukasz-jankowski-001793193[Łukasz Jankowski]
 :jacek-kocyba: https://www.linkedin.com/in/jacek-kocyba-49a5a2a0[Jacek Kocyba]
 :jakub-plusczok: https://www.linkedin.com/in/jakubplusczok[Jakub Plusczok]
-:slawomir-staciwa: https://www.linkedin.com/in/sstaciwa/[Sławomir Staciwa]
+:slawomir-staciwa: https://www.linkedin.com/in/sstaciwa[Sławomir Staciwa]
+:mateusz-koziel: https://www.linkedin.com/in/mateusz-koziel[Mateusz Kozieł]
+:jakub-hrehorowicz: https://linkedin.com/in/jakubhrehorowicz[Jakub Hrehorowicz]
+:gerard-zmuda: https://linkedin.com/in/gerard-zmuda[Gerard Żmuda]
+:krzysztof-kuznik: https://linkedin.com/in/krzysztof-kuznik-06907786[Krzysztof Kuźnik]
+:daniel-jeczen: https://linkedin.com/in/daniel-jecze%C5%84-463036135[Daniel Jeczeń]
+:rafal-nowakowski: https://linkedin.com/in/rafa%C5%82-n-042798211[Rafał Nowakowski]
 
-:lectures-timetable: https://github.com/crcep/cybersecurity-2022#lectures-timetable[lectures timetable]
-:passing-criteria: https://github.com/crcep/cybersecurity-2022#passing-criteria[passing criteria]
-:repository: https://github.com/crcep/cybersecurity-2022[repository]
-:repository-discussions: https://github.com/crcep/cybersecurity-2022/discussions[discussions]
-:repository-discussion-hello: https://github.com/crcep/cybersecurity-2022/discussions/1[introduce yourself]
+:lectures-timetable: https://github.com/crcep/cybersecurity-2023#lectures-timetable[lectures timetable]
+:passing-criteria: https://github.com/crcep/cybersecurity-2023#passing-criteria[passing criteria]
+:repository: https://github.com/crcep/cybersecurity-2023[repository]
+:repository-discussions: https://github.com/crcep/cybersecurity-2023/discussions[discussions]
+:repository-discussion-hello: https://github.com/crcep/cybersecurity-2023/discussions/1[introduce yourself]
 
 
 :toc: left
@@ -119,6 +125,81 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
 </script>
 ++++
 
+[#2023]
+== 2023
+
+[cols=".^2,3",align="center"]
+|===
+| *Number of hours*     | `27 hours`
+| *Number of meetings*  | `5 meetings, 5 Saturdays`
+| *Form of meeting*     | `on-line / hybrid`
+| *Schedule*
+a|
+* `2023-03-18 09:00-16:00 +0100 (CET)` +
+* `2023-03-25 09:00-16:00 +0100 (CET)` +
+* `2023-04-01 09:00-16:00 +0200 (CEST)` +
+* `2023-04-15 09:00-16:00 +0200 (CEST)` +
+* `2023-04-22 09:00-16:00 +0200 (CEST)`
+
+|===
+
+[cols="^.^1,.^10,.^6",align="center"]
+|===
+| ^|Topics              ^|Trainers
+
+|{counter:index-2023}| Cyber awareness
+a|* {slawomir-staciwa}
+
+|{counter:index-2023}| Risk Management - basics
+a|* {askaniusz-ferens}
+
+|{counter:index-2023}| Identity and Access Management
+a|* {jacek-kocyba}
+
+|{counter:index-2023}| Cryptography - basics
+a|* {jacek-kocyba}
+
+|{counter:index-2023}| Secure Configuration Monitoring
+a|* {maciej-wrobel}
+
+|{counter:index-2023}| Password vaults
+a|* {mateusz-koziel}
+
+|{counter:index-2023}| Vulnerability Assessment
+a|* {lukasz-jankowski}
+* {damian-krawczyk}
+* {jakub-hrehorowicz}
+
+|{counter:index-2023}| Offensive Cybersecurity - workshop
+a|* {jakub-plusczok}
+
+|{counter:index-2023}| Offensive Cybersecurity - DDOS
+a|* {gerard-zmuda}
+
+|{counter:index-2023}| Defensive Cybersecurity
+a|* {krzysztof-kuznik}
+* {daniel-jeczen}
+
+|{counter:index-2023}| Introduction to Azure Public Cloud
+a|* {rafal-nowakowski}
+|===
+
+[#lectures-timetable-2023]
+=== lectures timetable
+
+++++
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FWarsaw&showTitle=1&title=CRC%20Cybersecurity%202023&showPrint=0&mode=AGENDA&hl=en_GB&showCalendars=0&showTabs=0&showDate=0&showNav=0&showTz=0&src=4ea3f53e70a5d438f1910a4c390ff16f59cfc98c1f914b54b1a3010478cff452@group.calendar.google.com&color=%23EF6C00" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+++++
+
+[TIP]
+====
+Click https://calendar.google.com/calendar/ical/4ea3f53e70a5d438f1910a4c390ff16f59cfc98c1f914b54b1a3010478cff452%40group.calendar.google.com/public/basic.ics[HERE] or copy below address of *CRC Cybersecurity 2023* calendar in iCal format to subscribe and have always up-to-date schedule in your smartphone 📲.
+====
+
+----
+https://calendar.google.com/calendar/ical/4ea3f53e70a5d438f1910a4c390ff16f59cfc98c1f914b54b1a3010478cff452%40group.calendar.google.com/public/basic.ics
+----
+
 [#2022]
 == 2022
 
@@ -156,7 +237,7 @@ a|* {jacek-kocyba}
 a|* {maciej-wrobel}
 
 |{counter:index-2022}| Password vaults
-a|* Mateusz Kozieł
+a|* {mateusz-koziel}
 
 |{counter:index-2022}| Vulnerability Assessment
 a|* {lukasz-jankowski}
@@ -168,22 +249,6 @@ a|* {damian-krawczyk}
 |{counter:index-2022}| Offensive Cybersecurity
 a|* {jakub-plusczok}
 |===
-
-[#lectures-timetable-2022]
-=== lectures timetable
-
-++++
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FWarsaw&showTitle=1&title=CRC%20Cybersecurity%202022&showPrint=0&mode=AGENDA&hl=en_GB&showCalendars=0&showTabs=0&showDate=0&showNav=0&showTz=0&src=cDc5aTZqOWFna20xYWI5aTJiN3JnZW40NGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23EF6C00" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
-++++
-
-[TIP]
-====
-Click https://calendar.google.com/calendar/ical/p79i6j9agkm1ab9i2b7rgen44c%40group.calendar.google.com/public/basic.ics[HERE] or copy below address of *CRC Cybersecurity 2022* calendar in iCal format to subscribe and have always up-to-date schedule in your smartphone 📲.
-====
-
-----
-https://calendar.google.com/calendar/ical/p79i6j9agkm1ab9i2b7rgen44c%40group.calendar.google.com/public/basic.ics
-----
 
 [#feedback-2022]
 === feedback
@@ -518,8 +583,8 @@ image:crcep-watch-star.png[]
 
 8. Feel free to start new {repository-discussions}. Remember to tag appropriate group to make sure that they will receive notification about your post.
 
-* `@crcep/cybersecurity-trainers-2022`
-* `@crcep/cybersecurity-class-2022`
+* `@crcep/cybersecurity-trainers-2023`
+* `@crcep/cybersecurity-class-2023`
 
 [TIP]
 ====
