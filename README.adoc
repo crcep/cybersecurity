@@ -30,6 +30,8 @@
 :imagesdir: images
 :docinfo1:
 :revdate:       Last updated on {localdatetime}
+:stylesheet: asciidoc-style-crc.css
+:stylesdir: stylesheets
 
 ifdef::env-github[]
 :tip-caption: :bulb:
