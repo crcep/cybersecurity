@@ -8,7 +8,7 @@
 :mateusz-koziel: https://www.linkedin.com/in/mateusz-koziel[Mateusz Kozieł]
 :jakub-hrehorowicz: https://linkedin.com/in/jakubhrehorowicz[Jakub Hrehorowicz]
 :gerard-zmuda: https://linkedin.com/in/gerard-zmuda[Gerard Żmuda]
-:krzysztof-kuznik: https://linkedin.com/in/krzysztof-kuznik-06907786[Krzysztof Kuźnik]
+:krzysztof-kuznik: https://linkedin.com/in/cybersec-ninja[Krzysztof Kuźnik]
 :daniel-jeczen: https://linkedin.com/in/daniel-jeczen[Daniel Jeczeń]
 :rafal-nowakowski: https://linkedin.com/in/rafa%C5%82-n-042798211[Rafał Nowakowski]
 
