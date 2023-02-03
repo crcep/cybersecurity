@@ -11,6 +11,9 @@
 :krzysztof-kuznik: https://linkedin.com/in/cybersec-ninja[Krzysztof Kuźnik]
 :daniel-jeczen: https://linkedin.com/in/daniel-jeczen[Daniel Jeczeń]
 :rafal-nowakowski: https://linkedin.com/in/rafal-n[Rafał Nowakowski]
+:karolina-sieruga: https://www.linkedin.com/in/karolina-sieruga[Karolina Sieruga]
+:katarzyna-nowrot: https://www.linkedin.com/in/katarzyna-nowrot[Katarzyna Nowrot]
+:kamila-juszczyk: https://www.linkedin.com/in/kamila-juszczyk[Kamila Juszczyk]
 
 :lectures-timetable: https://github.com/crcep/cybersecurity-2023#lectures-timetable[lectures timetable]
 :passing-criteria: https://github.com/crcep/cybersecurity-2023#passing-criteria[passing criteria]
@@ -132,7 +135,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
 
 [cols=".^2,3",align="center"]
 |===
-| *Number of hours*     | `27 hours`
+| *Number of hours*     | `29 hours`
 | *Number of meetings*  | `5 meetings, 5 Saturdays`
 | *Form of meeting*     | `on-line / hybrid`
 | *Schedule*
@@ -152,8 +155,17 @@ a|
 |{counter:index-2023}| Cyber awareness
 a|* {slawomir-staciwa}
 
-|{counter:index-2023}| Risk Management - basics
+|{counter:index-2023}| Risk Management - Basics
 a|* {askaniusz-ferens}
+
+|{counter:index-2023}| Risk Management - Compliance
+a|* {kamila-juszczyk}
+
+|{counter:index-2023}| Risk Management - Operational Risk Management
+a|* {katarzyna-nowrot}
+
+|{counter:index-2023}| Risk Management - Audits
+a|* {karolina-sieruga}
 
 |{counter:index-2023}| Identity and Access Management
 a|* {jacek-kocyba}
