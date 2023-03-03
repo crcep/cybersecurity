@@ -49,7 +49,8 @@ endif::[]
 image:https://img.shields.io/github/stars/crcep/cybersecurity?label=Stars&style=social[GitHub Repo stars,link="https://github.com/crcep/cybersecurity"]
 image:https://img.shields.io/badge/dynamic/json?style=social&label=What's new?&query=%24%5B0%5D.commit.message&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcrcep%2Fcybersecurity%2Fcommits%3Fpath%3DREADME.adoc[GitHub Repo changes,link="https://github.com/crcep/cybersecurity/commits/main"]
 
-image::https://avatars.githubusercontent.com/u/83579804[CRC logo, 200, align="center"]
+// image::https://avatars.githubusercontent.com/u/83579804[CRC logo, 200, align="center"]
+image::https://user-images.githubusercontent.com/9287709/222753033-f1db6841-d617-43c3-a7e4-003ff85b5e7c.png[CRC logo, 300, align="center"]
 
 [quote, Cybersecurity stream]
 The material presented in our lectures will let you prepare to put the first steps into the Cybersecurity domain from the corporate point of view. You will have a chance to listen, discuss and even take part in a job performed by us daily. If you are interested in Information Security and want to broaden your knowledge in this field, we invite you to meet us. +
