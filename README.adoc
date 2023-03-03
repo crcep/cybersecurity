@@ -32,7 +32,7 @@
 :experimental:
 :imagesdir: images
 :docinfo1:
-:revdate:       Last updated on {localdatetime}
+:revdate:       Last update on {localdatetime}
 :stylesheet: asciidoc-style-crc.css
 :stylesdir: stylesheets
 
@@ -46,7 +46,8 @@ endif::[]
 
 = Cybersecurity: defense in modern organizations
 
-image:https://img.shields.io/github/stars/crcep/cybersecurity?label=Stars%20from%20users&style=social[GitHub Repo stars,link="https://github.com/crcep/cybersecurity"]
+image:https://img.shields.io/github/stars/crcep/cybersecurity?label=Stars&style=social[GitHub Repo stars,link="https://github.com/crcep/cybersecurity"]
+image:https://img.shields.io/badge/dynamic/json?style=social&label=What's new?&query=%24%5B0%5D.commit.message&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcrcep%2Fcybersecurity%2Fcommits%3Fpath%3DREADME.adoc[GitHub Repo changes,link="https://github.com/crcep/cybersecurity/commits/main"]
 
 image::https://avatars.githubusercontent.com/u/83579804[CRC logo, 200, align="center"]
 
@@ -67,6 +68,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
             "2019",
             "2021",
             "2022",
+            "2023",
         ],
       datasets: [
         {
@@ -76,6 +78,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
                 36,
                 53,
                 124,
+                109,
             ]
         },
         {
@@ -85,6 +88,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
                 25,
                 39,
                 98,
+                100,
             ]
         },
         {
@@ -122,7 +126,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
     plugins: {
       title: {
         display: true,
-        text: 'Cybersecurity lectures summary: 2019-2022'
+        text: 'Cybersecurity lectures summary: 2019-2023'
       }
     }
     }
@@ -135,7 +139,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
 
 [cols=".^2,3",align="center"]
 |===
-| *Number of hours*     | `29 hours`
+| *Number of hours*     | `28 hours`
 | *Number of meetings*  | `5 meetings, 5 Saturdays`
 | *Form of meeting*     | `on-line / hybrid`
 | *Schedule*
@@ -193,6 +197,7 @@ a|* {gerard-zmuda}
 |{counter:index-2023}| Defensive Cybersecurity
 a|* {krzysztof-kuznik}
 * {daniel-jeczen}
+* Mirosław Koczenasz
 
 |{counter:index-2023}| Introduction to Azure Public Cloud
 a|* {rafal-nowakowski}
@@ -564,6 +569,11 @@ image:github-new-account.png[]
 
 [start=3]
 3. Go to https://github.com/settings/organizations[github.com/settings/organizations] and check if you see `crcep` organization on the list of organizations at GitHub to which you belong.
+
+[NOTE]
+====
+image:crcep-member.png[]
+====
 
 [WARNING]
 ====
