@@ -175,14 +175,14 @@ a|* {karolina-sieruga}
 |{counter:index-2023}| Identity and Access Management
 a|* {jacek-kocyba}
 
+|{counter:index-2023}| Password vaults
+a|* {mateusz-koziel}
+
 |{counter:index-2023}| Cryptography - basics
 a|* {jacek-kocyba}
 
 |{counter:index-2023}| Secure Configuration Monitoring
 a|* {maciej-wrobel}
-
-|{counter:index-2023}| Password vaults
-a|* {mateusz-koziel}
 
 |{counter:index-2023}| Vulnerability Assessment
 a|* {lukasz-jankowski}
@@ -195,10 +195,12 @@ a|* {jakub-plusczok}
 |{counter:index-2023}| Offensive Cybersecurity - DDOS
 a|* {gerard-zmuda}
 
-|{counter:index-2023}| Defensive Cybersecurity
+|{counter:index-2023}| Defensive Cybersecurity - HTTP traffic analysis
 a|* {krzysztof-kuznik}
-* {daniel-jeczen}
-* Mirosław Koczenasz
+|{counter:index-2023}| Defensive Cybersecurity - SIEM, SOAR, ETL
+a|* {daniel-jeczen}
+|{counter:index-2023}| Defensive Cybersecurity - Static malware analysis
+a|* Mirosław Koczenasz
 
 |{counter:index-2023}| Introduction to Azure Public Cloud
 a|* {rafal-nowakowski}
