@@ -501,20 +501,20 @@ Even more practice and maybe more advanced stuff! It's been great!
 | ^|Topics              ^|Trainers
 
 |{counter:index-2021}| Defensive Cyber Security
-a|* {askaniusz-ferens}
+a|* Askaniusz Ferens {askaniusz-ferens-linkedin}
 
 |{counter:index-2021}| Technical State Compliance Monitoring
-a|* {maciej-wrobel}
+a|* Maciej Wróbel {maciej-wrobel-linkedin}
 
 |{counter:index-2021}| Vulnerability Assessment
-a|* {lukasz-jankowski}
-* {damian-krawczyk}
+a|* Łukasz Jankowski {lukasz-jankowski-linkedin}
+* Damian Krawczyk {damian-krawczyk-website}
 
 |{counter:index-2021}| Cloud Native Security
-a|* {damian-krawczyk}
+a|* Damian Krawczyk {damian-krawczyk-website}
 
 |{counter:index-2021}| Secure Software Lifecycle
-a|* {damian-krawczyk}
+a|* Damian Krawczyk {damian-krawczyk-website}
 |===
 
 [#feedback-2021]
