@@ -175,52 +175,54 @@ a|
 | ^|Topics              ^|Trainers
 
 |{counter:index-2023}| Cyber awareness
-a|* {slawomir-staciwa}
+a|* Sławomir Staciwa {slawomir-staciwa-linkedin}
 
 |{counter:index-2023}| Risk Management - Basics
-a|* {askaniusz-ferens}
+a|* Askaniusz Ferens {askaniusz-ferens-linkedin}
 
 |{counter:index-2023}| Risk Management - Compliance
-a|* {kamila-juszczyk}
+a|* Kamila Juszczyk {kamila-juszczyk-linkedin}
 
 |{counter:index-2023}| Risk Management - Operational Risk Management
-a|* {katarzyna-nowrot}
+a|* Katarzyna Nowrot {katarzyna-nowrot-linkedin}
 
 |{counter:index-2023}| Risk Management - Audits
-a|* {karolina-sieruga}
+a|* Karolina Sieruga {karolina-sieruga-linkedin}
 
 |{counter:index-2023}| Identity and Access Management
-a|* {jacek-kocyba}
+a|* Jacek Kocyba {jacek-kocyba-linkedin}
 
 |{counter:index-2023}| Password vaults
-a|* {mateusz-koziel}
+a|* Mateusz Kozieł {mateusz-koziel-linkedin}
 
 |{counter:index-2023}| Cryptography - basics
-a|* {jacek-kocyba}
+a|* Jacek Kocyba {jacek-kocyba-linkedin}
 
 |{counter:index-2023}| Secure Configuration Monitoring
-a|* {maciej-wrobel}
+a|* Maciej Wróbel {maciej-wrobel-linkedin}
 
 |{counter:index-2023}| Vulnerability Assessment
-a|* {lukasz-jankowski}
-* {damian-krawczyk}
-* {jakub-hrehorowicz}
+a|* Łukasz Jankowski {lukasz-jankowski-linkedin}
+* Damian Krawczyk {damian-krawczyk-website}
+* Jakub Hrehorowicz {jakub-hrehorowicz-linkedin}
 
 |{counter:index-2023}| Offensive Cybersecurity - workshop
-a|* {jakub-plusczok}
+a|* Jakub Plusczok {jakub-plusczok-linkedin}
 
 |{counter:index-2023}| Offensive Cybersecurity - DDOS
-a|* {gerard-zmuda}
+a|* Gerard Żmuda {gerard-zmuda-linkedin}
 
 |{counter:index-2023}| Defensive Cybersecurity - HTTP traffic analysis
-a|* {krzysztof-kuznik}
+a|* Krzysztof Kuźnik {krzysztof-kuznik-linkedin}
+
 |{counter:index-2023}| Defensive Cybersecurity - SIEM, SOAR, ETL
-a|* {daniel-jeczen}
+a|* Daniel Jeczeń {daniel-jeczen-linkedin}
+
 |{counter:index-2023}| Defensive Cybersecurity - Static malware analysis
 a|* Mirosław Koczenasz
 
 |{counter:index-2023}| Introduction to Azure Public Cloud
-a|* {rafal-nowakowski}
+a|* Rafał Nowakowski {rafal-nowakowski-linkedin}
 |===
 
 [#lectures-timetable-2023]
