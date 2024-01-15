@@ -364,32 +364,32 @@ a|
 | ^|Topics              ^|Trainers
 
 |{counter:index-2022}| Cyber awareness
-a|* {slawomir-staciwa}
+a|* Sławomir Staciwa {slawomir-staciwa-linkedin}
 
 |{counter:index-2022}| Risk Management - basics
-a|* {askaniusz-ferens}
+a|* Askaniusz Ferens {askaniusz-ferens-linkedin}
 
 |{counter:index-2022}| Identity and Access Management
-a|* {jacek-kocyba}
+a|* Jacek Kocyba {jacek-kocyba-linkedin}
 
 |{counter:index-2022}| Cryptography - basics
-a|* {jacek-kocyba}
+a|* Jacek Kocyba {jacek-kocyba-linkedin}
 
 |{counter:index-2022}| Secure Configuration Monitoring
-a|* {maciej-wrobel}
+a|* Maciej Wróbel {maciej-wrobel-linkedin}
 
 |{counter:index-2022}| Password vaults
-a|* {mateusz-koziel}
+a|* Mateusz Kozieł {mateusz-koziel-linkedin}
 
 |{counter:index-2022}| Vulnerability Assessment
-a|* {lukasz-jankowski}
-* {damian-krawczyk}
+a|* Łukasz Jankowski {lukasz-jankowski-linkedin}
+* Damian Krawczyk {damian-krawczyk-website}
 
 |{counter:index-2022}| Cloud Native Security
-a|* {damian-krawczyk}
+a|* Damian Krawczyk {damian-krawczyk-website}
 
 |{counter:index-2022}| Offensive Cybersecurity
-a|* {jakub-plusczok}
+a|* Jakub Plusczok {jakub-plusczok-linkedin}
 |===
 
 [#feedback-2022]
