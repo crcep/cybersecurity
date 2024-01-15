@@ -615,18 +615,18 @@ a|* Krzysztof Cudak
 |{counter:index-2018}| Simulation and detection of APT attack in an organization - part 1
 a|* Mariusz Derela
 * Michał Terbert
-* Krzysztof Kuźnik
+* Krzysztof Kuźnik {krzysztof-kuznik-linkedin}
 
 |{counter:index-2018}| Simulation and detection of APT attack in an organization - part 2
 a|* Mariusz Derela
 * Michał Terbert
-* Krzysztof Kuźnik
+* Krzysztof Kuźnik {krzysztof-kuznik-linkedin}
 
 |{counter:index-2018}| Vulnerability types, classification and detection
-a|* {maciej-wrobel}
+a|* Maciej Wróbel {maciej-wrobel-linkedin}
 
 |{counter:index-2018}| Designing tests to verify configuration and detect vulnerabilities
-a|* {maciej-wrobel}
+a|* Maciej Wróbel {maciej-wrobel-linkedin}
 
 |===
 
