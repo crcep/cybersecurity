@@ -10,3 +10,14 @@ div.tableblock > table, th {
     top: 0; /* Don't forget this, required for the stickiness */
     box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
 }
+
+kbd {
+    color: red;
+    font-size: .85em;
+    background-color: #f7f7f7;
+    border: 1px solid;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    border-color: red;
+    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.2),0 0 0 .1em
+}
