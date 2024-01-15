@@ -661,7 +661,7 @@ a|* Łukasz Miedziński
 *Start following the instruction below only after receiving the invitation to GitHub organization via e-mail.*
 ====
 
-1. Join `crcep` Organization at GitHub by clicking green button kbd:[Join @crcep] in the invitation message send to your e-mail address given during registration to Corporate Readiness Certificate Educational Program.
+1. Join `crcep` Organization at GitHub by clicking green button btn:[Join @crcep] in the invitation message send to your e-mail address given during registration to Corporate Readiness Certificate Educational Program.
 
 [NOTE]
 ====
@@ -690,9 +690,9 @@ image:crcep-member.png[]
 
 [WARNING]
 ====
-If you don't see `crcep` on the list of organizations go back to invitation message mentioned in the first point and click again green button kbd:[Join @crcep].
+If you don't see `crcep` on the list of organizations go back to invitation message mentioned in the first point and click again green button btn:[Join @crcep].
 
-You should see prompt to join CRC EP, click green button kbd:[Join CRC EP] as shown below.
+You should see prompt to join CRC EP, click green button btn:[Join CRC EP] as shown below.
 
 image:crcep-join.png[]
 ====
@@ -705,8 +705,8 @@ image:crcep-join.png[]
 *All communication will be send to you via GitHub notifications.* +
 **Remember to click as shown below for this {repository}:**
 
-* 👁 kbd:[Watch] > kbd:[All activity]
-* ⭐️ kbd:[Star]
+* 👁 btn:[Watch] > btn:[All activity]
+* ⭐️ btn:[Star]
 
 image:crcep-watch-star.png[]
 ====
