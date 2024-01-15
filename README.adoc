@@ -57,8 +57,11 @@ endif::[]
 image:https://img.shields.io/github/stars/crcep/cybersecurity?label=Stars&style=social[GitHub Repo stars,link="https://github.com/crcep/cybersecurity"]
 image:https://img.shields.io/badge/dynamic/json?style=social&label=What's new?&query=%24%5B0%5D.commit.message&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcrcep%2Fcybersecurity%2Fcommits%3Fpath%3DREADME.adoc[GitHub Repo changes,link="https://github.com/crcep/cybersecurity/commits/main"]
 
-// image::https://avatars.githubusercontent.com/u/83579804[CRC logo, 200, align="center"]
-image::https://user-images.githubusercontent.com/9287709/222753033-f1db6841-d617-43c3-a7e4-003ff85b5e7c.png[CRC logo, 300, align="center"]
+[.text-center]
+https://euslugi.polsl.pl/Formularz/Formularz/Wypelnij/70[kbd:[CLICK HERE TO REGISTER for CRC'2024]]
+
+image::https://avatars.githubusercontent.com/u/83579804[CRC logo, 300, align="center"]
+// image::https://user-images.githubusercontent.com/9287709/222753033-f1db6841-d617-43c3-a7e4-003ff85b5e7c.png[CRC logo, 300, align="center"]
 
 [quote, Cybersecurity stream]
 The material presented in our lectures will let you prepare to put the first steps into the Cybersecurity domain from the corporate point of view. You will have a chance to listen, discuss and even take part in a job performed by us daily. If you are interested in Information Security and want to broaden your knowledge in this field, we invite you to meet us. +
@@ -151,6 +154,121 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
 });
 </script>
 ++++
+
+[#2024]
+== 2024
+
+[.text-center]
+https://euslugi.polsl.pl/Formularz/Formularz/Wypelnij/70[kbd:[CLICK HERE TO REGISTER for CRC'2024]]
+
+[cols=".^2,3",align="center"]
+|===
+| *Number of hours*     | `41 hours`
+| *Number of meetings*  | `8 meetings, 8 Saturdays`
+| *Form of meeting*     | `on-line`
+| *Schedule*
+a|
+* `2024-03-02 09:00-14:10 +0100 (CET)` +
+* `2024-03-09 09:00-14:00 +0100 (CET)` +
+* `2024-03-16 09:00-16:00 +0100 (CET)` +
+* `2024-03-23 09:00-16:00 +0100 (CET)` +
+* `2024-04-06 09:00-13:40 +0200 (CEST)` +
+* `2024-04-13 09:00-13:40 +0200 (CEST)` +
+* `2024-04-20 09:00-16:00 +0200 (CEST)` +
+* `2024-04-27 09:00-14:50 +0200 (CEST)`
+
+|===
+
+[cols="^.^1,.^10,.^6",align="center"]
+|===
+| ^|Topic              ^|Trainer
+
+|{counter:index-2024}| Kickoff meeting
+a|* Łukasz Jankowski {lukasz-jankowski-linkedin}
+* Damian Krawczyk {damian-krawczyk-website}
+
+|{counter:index-2024}| Cyber awareness
+a|* Sławomir Staciwa {slawomir-staciwa-linkedin}
+
+|{counter:index-2024}| Data Protection - Compliance
+a|* Dagmara Adamczyk {dagmara-adamczyk-linkedin}
+
+|{counter:index-2024}| Risk Management - Basics
+a|* Askaniusz Ferens {askaniusz-ferens-linkedin}
+* Anna Maszybrocka {anna-maszybrocka-linkedin}
+
+|{counter:index-2024}| Risk Management - Governance
+a|* Justyna Chochla-Wojdyła
+
+|{counter:index-2024}| Risk Management - Operational Risk Management
+a|* Katarzyna Nowrot {katarzyna-nowrot-linkedin}
+
+|{counter:index-2024}| Risk Management - Compliance
+a|* Kamila Juszczyk {kamila-juszczyk-linkedin}
+
+|{counter:index-2024}| Risk Management - Audits
+a|* Karolina Sieruga {karolina-sieruga-linkedin}
+
+|{counter:index-2024}| Identity and Access Management
+a|* Paweł Matyszok
+
+|{counter:index-2024}| Password vaults
+a|* Mateusz Kozieł {mateusz-koziel-linkedin}
+
+|{counter:index-2024}| Cryptography - Basics
+a|* Jacek Kocyba {jacek-kocyba-linkedin}
+
+|{counter:index-2024}| Shadow IT
+a|* Jacek Kocyba {jacek-kocyba-linkedin}
+
+|{counter:index-2024}| Vulnerability Assessment
+a|* Łukasz Jankowski {lukasz-jankowski-linkedin}
+* Damian Krawczyk {damian-krawczyk-website}
+
+|{counter:index-2024}| Vulnerability Assessment for containers
+a|* Krzysztof Kozak {krzysztof-kozak-linkedin}
+* Łukasz Galos {lukasz-galos-linkedin}
+
+|{counter:index-2024}| Secure Configuration Monitoring
+a|* Maciej Wróbel {maciej-wrobel-linkedin}
+
+|{counter:index-2024}| Secure Software Development Lifecycle Management
+a|* Maciej Wróbel {maciej-wrobel-linkedin}
+
+|{counter:index-2024}| Introduction to Offensive tooling
+a|* Michał Kucharski {michal-kucharski-website}
+
+|{counter:index-2024}| OSINT in the service of Offensive Security
+a|* Maciej Pypeć {maciej-pypec-linkedin}
+
+|{counter:index-2024}| Offensive Cybersecurity - Red Teaming theory
+a|* Jakub Plusczok {jakub-plusczok-linkedin}
+
+|{counter:index-2024}| Offensive Cybersecurity - Red Teaming workshop
+a|* Jakub Plusczok {jakub-plusczok-linkedin}
+
+|{counter:index-2024}| Offensive Cybersecurity - DDOS
+a|* Gerard Żmuda {gerard-zmuda-linkedin}
+
+|{counter:index-2024}| Defensive Cybersecurity - Threat Hunting
+a|* Jakub Szumera
+
+|{counter:index-2024}| Defensive Cybersecurity - SIEM + SOAR + Proxy
+a|* Daniel Jeczeń {daniel-jeczen-linkedin}
+
+|{counter:index-2024}| Defensive Cybersecurity - Malware Analysis
+a|* Mirosław Koczenasz
+
+|{counter:index-2024}| Building ETL for Security data
+a|* Michał Kocur {michal-kocur-linkedin}
+
+|{counter:index-2024}| Security data processing automation
+a|* Piotr Furmaniak
+* Adam Majstrak {adam-majstrak-website}
+
+|{counter:index-2024}| Introduction to Azure Public Cloud
+a|* Rafał Nowakowski {rafal-nowakowski-linkedin}
+|===
 
 [#2023]
 == 2023
