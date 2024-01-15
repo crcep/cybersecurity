@@ -551,8 +551,8 @@ In my opinion more practical exercises would be better, also homework tasks woul
 | ^|Topics              ^|Trainers
 
 |{counter:index-2019}| Light Side of Security
-a|* {askaniusz-ferens}
-* {slawomir-staciwa}
+a|* Askaniusz Ferens {askaniusz-ferens-linkedin}
+* Sławomir Staciwa {slawomir-staciwa-linkedin}
 
 |{counter:index-2019}| Brief introduction to CCERT & CTA responsibilities, Vulnerability Alerting Service, Responsible Disclosure Programme
 a|* Jędrzej Maksym
@@ -561,13 +561,13 @@ a|* Jędrzej Maksym
 a|* Jędrzej Maksym
 
 |{counter:index-2019}| Vulnerability Assessment
-a|* {damian-krawczyk}
+a|* Damian Krawczyk {damian-krawczyk-website}
 
 |{counter:index-2019}| Vulnerability Detection Plugins
-a|* {damian-krawczyk}
+a|* Damian Krawczyk {damian-krawczyk-website}
 
 |{counter:index-2019}| Technical State Compliance Monitoring
-a|* {maciej-wrobel}
+a|* Maciej Wróbel {maciej-wrobel-linkedin}
 |===
 
 [#feedback-2019]
