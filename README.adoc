@@ -1,7 +1,8 @@
 :damian-krawczyk-website: https://damiankrawczyk.com[icon:globe[set=fas,size=40em]]
+:damian-krawczyk-linkedin: https://www.linkedin.com/in/damiankrawczyks[icon:linkedin[set=fas,size=40em]]
 :maciej-wrobel-linkedin: https://www.linkedin.com/in/maciejwrobel[icon:linkedin[set=fab,size=40em]]
 :askaniusz-ferens-linkedin: https://www.linkedin.com/in/asek-ferens[icon:linkedin[set=fab,size=40em]]
-:lukasz-jankowski-linkedin: https://www.linkedin.com/in/łukasz-jankowski-001793193[icon:linkedin[set=fab,size=40em]]
+:lukasz-jankowski-linkedin: https://www.linkedin.com/in/lukasz-jan-jankowski[icon:linkedin[set=fab,size=40em]]
 :jacek-kocyba-linkedin: https://www.linkedin.com/in/jacek-kocyba-49a5a2a0[icon:linkedin[set=fab,size=40em]]
 :jakub-plusczok-linkedin: https://www.linkedin.com/in/jakubplusczok[icon:linkedin[set=fab,size=40em]]
 :slawomir-staciwa-linkedin: https://www.linkedin.com/in/sstaciwa[icon:linkedin[set=fab,size=40em]]
@@ -22,6 +23,9 @@
 :maciej-pypec-linkedin: https://linkedin.com/in/maciej-pypec[icon:linkedin[set=fab,size=40em]]
 :michal-kocur-linkedin: https://www.linkedin.com/in/michal-kocur[icon:linkedin[set=fab,size=40em]]
 :adam-majstrak-website: https://codehub.com.pl/[icon:globe[set=fas,size=40em]]
+:jakub-szumera-linkedin: https://www.linkedin.com/in/jakubsz[icon:linkedin[set=fab,size=40em]]
+:justyna-chochla-wojdyla-linkedin: https://www.linkedin.com/in/justyna-chochla[icon:linkedin[set=fab,size=40em]]
+:pawel-matyszok-linkedin: https://www.linkedin.com/in/pawelmatyszok[icon:linkedin[set=fab,size=40em]]
 
 :lectures-timetable: https://github.com/crcep/cybersecurity-2023#lectures-timetable[lectures timetable]
 :passing-criteria: https://github.com/crcep/cybersecurity-2023#passing-criteria[passing criteria]
@@ -173,7 +177,7 @@ a|
 * `2024-03-16 09:00-16:00 +0100 (CET)` +
 * `2024-03-23 09:00-16:00 +0100 (CET)` +
 * `2024-04-06 09:00-13:40 +0200 (CEST)` +
-* `2024-04-13 09:00-13:40 +0200 (CEST)` +
+* `2024-04-13 09:00-14:40 +0200 (CEST)` +
 * `2024-04-20 09:00-16:00 +0200 (CEST)` +
 * `2024-04-27 09:00-14:50 +0200 (CEST)`
 
@@ -185,7 +189,7 @@ a|
 
 |{counter:index-2024}| Kickoff meeting
 a|* Łukasz Jankowski {lukasz-jankowski-linkedin}
-* Damian Krawczyk {damian-krawczyk-website}
+* Damian Krawczyk {damian-krawczyk-linkedin} {damian-krawczyk-website}
 
 |{counter:index-2024}| Cyber awareness
 a|* Sławomir Staciwa {slawomir-staciwa-linkedin}
@@ -198,7 +202,7 @@ a|* Askaniusz Ferens {askaniusz-ferens-linkedin}
 * Anna Maszybrocka {anna-maszybrocka-linkedin}
 
 |{counter:index-2024}| Risk Management - Governance
-a|* Justyna Chochla-Wojdyła
+a|* Justyna Chochla-Wojdyła {justyna-chochla-wojdyla-linkedin}
 
 |{counter:index-2024}| Risk Management - Operational Risk Management
 a|* Katarzyna Nowrot {katarzyna-nowrot-linkedin}
@@ -210,7 +214,7 @@ a|* Kamila Juszczyk {kamila-juszczyk-linkedin}
 a|* Karolina Sieruga {karolina-sieruga-linkedin}
 
 |{counter:index-2024}| Identity and Access Management
-a|* Paweł Matyszok
+a|* Paweł Matyszok {pawel-matyszok-linkedin}
 
 |{counter:index-2024}| Password vaults
 a|* Mateusz Kozieł {mateusz-koziel-linkedin}
@@ -223,7 +227,7 @@ a|* Jacek Kocyba {jacek-kocyba-linkedin}
 
 |{counter:index-2024}| Vulnerability Assessment
 a|* Łukasz Jankowski {lukasz-jankowski-linkedin}
-* Damian Krawczyk {damian-krawczyk-website}
+* Damian Krawczyk {damian-krawczyk-linkedin} {damian-krawczyk-website}
 
 |{counter:index-2024}| Vulnerability Assessment for containers
 a|* Krzysztof Kozak {krzysztof-kozak-linkedin}
@@ -251,7 +255,7 @@ a|* Jakub Plusczok {jakub-plusczok-linkedin}
 a|* Gerard Żmuda {gerard-zmuda-linkedin}
 
 |{counter:index-2024}| Defensive Cybersecurity - Threat Hunting
-a|* Jakub Szumera
+a|* Jakub Szumera {jakub-szumera-linkedin}
 
 |{counter:index-2024}| Defensive Cybersecurity - SIEM + SOAR + Proxy
 a|* Daniel Jeczeń {daniel-jeczen-linkedin}
