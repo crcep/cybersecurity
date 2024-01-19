@@ -12,12 +12,12 @@ div.tableblock > table, th {
 }
 
 kbd {
-    color: red;
+    color: #f7f7f7;
     font-size: .85em;
-    background-color: #f7f7f7;
+    background-color: red;
     border: 1px solid;
     -webkit-border-radius: 3px;
     border-radius: 3px;
-    border-color: red;
+    border-color: #fd5f5f;
     -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.2),0 0 0 .1em
 }
