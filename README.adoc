@@ -172,14 +172,15 @@ https://euslugi.polsl.pl/Formularz/Formularz/Wypelnij/70[kbd:[CLICK HERE TO REGI
 | *Form of meeting*     | `on-line`
 | *Schedule*
 a|
-* `2024-03-02 09:00-14:10 +0100 (CET)` +
-* `2024-03-09 09:00-14:00 +0100 (CET)` +
-* `2024-03-16 09:00-16:00 +0100 (CET)` +
-* `2024-03-23 09:00-16:00 +0100 (CET)` +
-* `2024-04-06 09:00-13:40 +0200 (CEST)` +
-* `2024-04-13 09:00-14:40 +0200 (CEST)` +
-* `2024-04-20 09:00-16:00 +0200 (CEST)` +
-* `2024-04-27 09:00-14:50 +0200 (CEST)`
+* `2024-03-02 09:00-14:10 +0100 (CET)` `DAY 1/8` +
+* `2024-03-09 09:00-14:00 +0100 (CET)` `DAY 2/8` +
+* `2024-03-16 09:00-16:00 +0100 (CET)` `DAY 3/8` +
+* `2024-03-23 09:00-16:00 +0100 (CET)` `DAY 4/8` +
+* `2024-04-06 09:00-13:40 +0200 (CEST)` `DAY 5/8` +
+* `2024-04-13 09:00-14:40 +0200 (CEST)` `DAY 6/8` +
+* `2024-04-20 09:00-16:00 +0200 (CEST)` `DAY 7/8` +
+* `2024-04-27 09:00-14:50 +0200 (CEST)` `DAY 8/8` +
+* `2024-05-11 10:00-11:50 +0200 (CEST)` `FINAL EXAM`
 
 |===
 
@@ -197,11 +198,11 @@ a|* Sławomir Staciwa {slawomir-staciwa-linkedin}
 |{counter:index-2024}| Data Protection - Compliance
 a|* Dagmara Adamczyk {dagmara-adamczyk-linkedin}
 
-|{counter:index-2024}| Risk Management - Basics
+|{counter:index-2024}| IT Risk Management - Basics
 a|* Askaniusz Ferens {askaniusz-ferens-linkedin}
 * Anna Maszybrocka {anna-maszybrocka-linkedin}
 
-|{counter:index-2024}| Risk Management - Governance
+|{counter:index-2024}| IT Risk Management - Governance
 a|* Justyna Chochla-Wojdyła {justyna-chochla-wojdyla-linkedin}
 
 |{counter:index-2024}| Risk Management - Operational Risk Management
