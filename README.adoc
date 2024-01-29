@@ -180,7 +180,7 @@ a|
 * `2024-04-13 09:00-14:40 +0200 (CEST)` `DAY 6/8` +
 * `2024-04-20 09:00-16:00 +0200 (CEST)` `DAY 7/8` +
 * `2024-04-27 09:00-14:50 +0200 (CEST)` `DAY 8/8` +
-* `2024-05-11 10:00-11:50 +0200 (CEST)` `FINAL EXAM`
+* `2024-05-11 10:00-11:00 +0200 (CEST)` `FINAL EXAM`
 
 |===
 
@@ -295,7 +295,10 @@ a|
 
 [cols="^.^1,.^10,.^6",align="center"]
 |===
-| ^|Topics              ^|Trainers
+| ^|Topic              ^|Trainer
+
+|{counter:index-2024}| Kickoff meeting
+a|* Damian Krawczyk {damian-krawczyk-linkedin} {damian-krawczyk-website}
 
 |{counter:index-2023}| Cyber awareness
 a|* Sławomir Staciwa {slawomir-staciwa-linkedin}
@@ -484,7 +487,7 @@ a|
 
 [cols="^.^1,.^10,.^6",align="center"]
 |===
-| ^|Topics              ^|Trainers
+| ^|Topic              ^|Trainer
 
 |{counter:index-2022}| Cyber awareness
 a|* Sławomir Staciwa {slawomir-staciwa-linkedin}
@@ -621,7 +624,7 @@ Even more practice and maybe more advanced stuff! It's been great!
 
 [cols="^.^1,.^10,.^6",align="center"]
 |===
-| ^|Topics              ^|Trainers
+| ^|Topic              ^|Trainer
 
 |{counter:index-2021}| Defensive Cyber Security
 a|* Askaniusz Ferens {askaniusz-ferens-linkedin}
@@ -671,7 +674,7 @@ In my opinion more practical exercises would be better, also homework tasks woul
 
 [cols="^.^1,.^10,.^6",align="center"]
 |===
-| ^|Topics              ^|Trainers
+| ^|Topic              ^|Trainer
 
 |{counter:index-2019}| Light Side of Security
 a|* Askaniusz Ferens {askaniusz-ferens-linkedin}
@@ -727,7 +730,7 @@ Two Saturdays is not enough. Ideally, for example, 6 Saturdays.
 
 [cols="^.^1,.^10,.^6",align="center"]
 |===
-| ^|Topics              ^|Trainers
+| ^|Topic              ^|Trainer
 
 |{counter:index-2018}| Who attacks the organization and how (OWASP TOP 10, ASVS and protection methods) - part 1
 a|* Krzysztof Cudak
@@ -765,7 +768,7 @@ a|* Maciej Wróbel {maciej-wrobel-linkedin}
 
 [cols="^.^1,.^10,.^6",align="center"]
 |===
-| ^|Topics              ^|Trainers
+| ^|Topic              ^|Trainer
 
 |{counter:index-2017}| IT Security and Cybercrime - introduction
 a|* Łukasz Miedziński
