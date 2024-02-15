@@ -62,7 +62,7 @@ image:https://img.shields.io/github/stars/crcep/cybersecurity?label=Stars&style=
 image:https://img.shields.io/badge/dynamic/json?style=social&label=What's new?&query=%24%5B0%5D.commit.message&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcrcep%2Fcybersecurity%2Fcommits%3Fpath%3DREADME.adoc[GitHub Repo changes,link="https://github.com/crcep/cybersecurity/commits/main"]
 
 [.text-center]
-kbd:[This year's enrollment closed already.]
+kbd:[This year's enrollment is closed already.]
 
 image::https://avatars.githubusercontent.com/u/83579804[CRC logo, 300, align="center"]
 // image::https://user-images.githubusercontent.com/9287709/222753033-f1db6841-d617-43c3-a7e4-003ff85b5e7c.png[CRC logo, 300, align="center"]
@@ -163,7 +163,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
 == 2024
 
 [.text-center]
-kbd:[This year's enrollment closed already.]
+kbd:[This year's enrollment is closed already.]
 
 [cols=".^2,3",align="center"]
 |===
