@@ -27,11 +27,11 @@
 :justyna-chochla-wojdyla-linkedin: https://www.linkedin.com/in/justyna-chochla[icon:linkedin[set=fab,size=40em]]
 :pawel-matyszok-linkedin: https://www.linkedin.com/in/pawelmatyszok[icon:linkedin[set=fab,size=40em]]
 
-:lectures-timetable: https://github.com/crcep/cybersecurity-2023#lectures-timetable[lectures timetable]
-:passing-criteria: https://github.com/crcep/cybersecurity-2023#passing-criteria[passing criteria]
-:repository: https://github.com/crcep/cybersecurity-2023[repository]
-:repository-discussions: https://github.com/crcep/cybersecurity-2023/discussions[discussions]
-:repository-discussion-hello: https://github.com/crcep/cybersecurity-2023/discussions/1[introduce yourself]
+:lectures-timetable: https://github.com/crcep/cybersecurity-2024#lectures-timetable[lectures timetable]
+:passing-criteria: https://github.com/crcep/cybersecurity-2024#passing-criteria[passing criteria]
+:repository: https://github.com/crcep/cybersecurity-2024[repository]
+:repository-discussions: https://github.com/crcep/cybersecurity-2024/discussions[discussions]
+:repository-discussion-hello: https://github.com/crcep/cybersecurity-2024/discussions/1[introduce yourself]
 
 
 :toc: left
@@ -275,6 +275,29 @@ a|* Piotr Furmaniak
 a|* Rafał Nowakowski {rafal-nowakowski-linkedin}
 |===
 
+[#lectures-timetable-2024]
+=== lectures timetable
+
+++++
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FWarsaw&showTitle=1&title=CRC%20Cybersecurity%202024&showPrint=0&mode=AGENDA&hl=en_GB&showCalendars=0&showTabs=0&showDate=0&showNav=0&showTz=0&src=23a824a3917660f5a5c3aac192bda4cdbe407eb4054cec704ab4de953ed4dc9c%40group.calendar.google.com&color=%23EF6C00" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+++++
+
+[TIP]
+====
+To subscribe and have always up-to-date schedule in your smartphone 📲.
+
+- click btn:[+ Google Calendar] button above, if you are on Android.
+
+- click https://calendar.google.com/calendar/ical/23a824a3917660f5a5c3aac192bda4cdbe407eb4054cec704ab4de953ed4dc9c%40group.calendar.google.com/public/basic.ics[HERE] or copy below address of *CRC Cybersecurity 2024* calendar in iCal format if you are on iPhone.
+
+
+====
+
+----
+https://calendar.google.com/calendar/ical/23a824a3917660f5a5c3aac192bda4cdbe407eb4054cec704ab4de953ed4dc9c%40group.calendar.google.com/public/basic.ics
+----
+
+
 [#2023]
 == 2023
 
@@ -350,23 +373,6 @@ a|* Mirosław Koczenasz
 |{counter:index-2023}| Introduction to Azure Public Cloud
 a|* Rafał Nowakowski {rafal-nowakowski-linkedin}
 |===
-
-[#lectures-timetable-2023]
-=== lectures timetable
-
-++++
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FWarsaw&showTitle=1&title=CRC%20Cybersecurity%202023&showPrint=0&mode=AGENDA&hl=en_GB&showCalendars=0&showTabs=0&showDate=0&showNav=0&showTz=0&src=4ea3f53e70a5d438f1910a4c390ff16f59cfc98c1f914b54b1a3010478cff452@group.calendar.google.com&color=%23EF6C00" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
-++++
-
-[TIP]
-====
-Click https://calendar.google.com/calendar/ical/4ea3f53e70a5d438f1910a4c390ff16f59cfc98c1f914b54b1a3010478cff452%40group.calendar.google.com/public/basic.ics[HERE] or copy below address of *CRC Cybersecurity 2023* calendar in iCal format to subscribe and have always up-to-date schedule in your smartphone 📲.
-====
-
-----
-https://calendar.google.com/calendar/ical/4ea3f53e70a5d438f1910a4c390ff16f59cfc98c1f914b54b1a3010478cff452%40group.calendar.google.com/public/basic.ics
-----
-
 
 [#feedback-2023]
 === feedback
@@ -856,8 +862,8 @@ image:crcep-watch-star.png[]
 
 8. Feel free to start new {repository-discussions}. Remember to tag appropriate group to make sure that they will receive notification about your post.
 
-* `@crcep/cybersecurity-trainers-2023`
-* `@crcep/cybersecurity-class-2023`
+* `@crcep/cybersecurity-trainers-2024`
+* `@crcep/cybersecurity-class-2024`
 
 [TIP]
 ====
