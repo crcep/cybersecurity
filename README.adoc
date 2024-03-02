@@ -85,6 +85,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
             "2021",
             "2022",
             "2023",
+            "2024",
         ],
       datasets: [
         {
@@ -95,6 +96,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
                 53,
                 124,
                 109,
+                190,
             ]
         },
         {
@@ -105,6 +107,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
                 39,
                 98,
                 100,
+                139,
             ]
         },
         {
@@ -147,7 +150,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
         plugins: {
             title: {
                 display: true,
-                text: 'Cybersecurity lectures summary: 2019-2023'
+                text: 'Cybersecurity lectures summary: 2019-2024'
             }
         },
         interaction: {
