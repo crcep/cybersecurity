@@ -26,6 +26,7 @@
 :jakub-szumera-linkedin: https://www.linkedin.com/in/jakubsz[icon:linkedin[set=fab,size=40em]]
 :justyna-chochla-wojdyla-linkedin: https://www.linkedin.com/in/justyna-chochla[icon:linkedin[set=fab,size=40em]]
 :pawel-matyszok-linkedin: https://www.linkedin.com/in/pawelmatyszok[icon:linkedin[set=fab,size=40em]]
+:piotr-furmaniak-linkedin: https://www.linkedin.com/in/piotr-furmaniak-4b2a07224[icon:linkedin[set=fab,size=40em]]
 
 :lectures-timetable: https://github.com/crcep/cybersecurity-2024#lectures-timetable[lectures timetable]
 :passing-criteria: https://github.com/crcep/cybersecurity-2024#passing-criteria[passing criteria]
@@ -271,7 +272,7 @@ a|* Mirosław Koczenasz
 a|* Michał Kocur {michal-kocur-linkedin}
 
 |{counter:index-2024}| Security data processing automation
-a|* Piotr Furmaniak
+a|* Piotr Furmaniak {piotr-furmaniak-linkedin}
 * Adam Majstrak {adam-majstrak-website}
 
 |{counter:index-2024}| Introduction to Azure Public Cloud
