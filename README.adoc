@@ -324,7 +324,7 @@ a|
 |===
 | ^|Topic              ^|Trainer
 
-|{counter:index-2024}| Kickoff meeting
+|{counter:index-2023}| Kickoff meeting
 a|* Damian Krawczyk {damian-krawczyk-linkedin} {damian-krawczyk-website}
 
 |{counter:index-2023}| Cyber awareness
