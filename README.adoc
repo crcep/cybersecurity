@@ -63,7 +63,7 @@ image:https://img.shields.io/github/stars/crcep/cybersecurity?label=Stars&style=
 image:https://img.shields.io/badge/dynamic/json?style=social&label=What's new?&query=%24%5B0%5D.commit.message&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcrcep%2Fcybersecurity%2Fcommits%3Fpath%3DREADME.adoc[GitHub Repo changes,link="https://github.com/crcep/cybersecurity/commits/main"]
 
 [.text-center]
-kbd:[This year's enrollment is closed already.]
+OUR NEW SPACE: https://cybersecuritystream.github.io[kbd:[cybersecuritystream.github.io]]
 
 image::https://avatars.githubusercontent.com/u/83579804[CRC logo, 300, align="center"]
 // image::https://user-images.githubusercontent.com/9287709/222753033-f1db6841-d617-43c3-a7e4-003ff85b5e7c.png[CRC logo, 300, align="center"]
@@ -119,6 +119,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
                 39,
                 73,
                 83,
+                95,
             ]
         },
         {
@@ -129,6 +130,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
                 31,
                 64,
                 65,
+                86,
             ]
         },
         {
@@ -139,6 +141,7 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
                 31,
                 64,
                 65,
+                86,
             ]
         }
       ]
@@ -166,140 +169,145 @@ new Chart(document.getElementById("bar-chart-horizontal"), {
 [#2024]
 == 2024
 
+[NOTE]
+====
+Are you looking for a 2024 sum-up? It's in your new space. Click the red button below to check it out!
 [.text-center]
-kbd:[This year's enrollment is closed already.]
-
-[cols=".^2,3",align="center"]
-|===
-| *Number of hours*     | `40 hours`
-| *Number of meetings*  | `8 meetings, 8 Saturdays`
-| *Form of meeting*     | `on-line`
-| *Schedule*
-a|
-* `2024-03-02 09:00-14:10 +0100 (CET)` `DAY 1/8` +
-* `2024-03-09 09:00-14:00 +0100 (CET)` `DAY 2/8` +
-* `2024-03-16 09:00-14:50 +0100 (CET)` `DAY 3/8` +
-* `2024-03-23 09:00-16:00 +0100 (CET)` `DAY 4/8` +
-* `2024-04-06 09:00-13:40 +0200 (CEST)` `DAY 5/8` +
-* `2024-04-13 09:00-14:40 +0200 (CEST)` `DAY 6/8` +
-* `2024-04-20 09:00-14:50 +0200 (CEST)` `DAY 7/8` +
-* `2024-04-27 09:00-16:00 +0200 (CEST)` `DAY 8/8` +
-* `2024-05-11 10:00-11:00 +0200 (CEST)` `FINAL EXAM`
-
-|===
-
-[cols="^.^1,.^10,.^6",align="center"]
-|===
-| ^|Topic              ^|Trainer
-
-|{counter:index-2024}| Kickoff meeting
-a|* Łukasz Jankowski {lukasz-jankowski-linkedin}
-* Damian Krawczyk {damian-krawczyk-linkedin} {damian-krawczyk-website}
-
-|{counter:index-2024}| Cyber awareness
-a|* Sławomir Staciwa {slawomir-staciwa-linkedin}
-
-|{counter:index-2024}| Data Protection - Compliance
-a|* Dagmara Adamczyk {dagmara-adamczyk-linkedin}
-
-|{counter:index-2024}| IT Risk Management - Basics
-a|* Askaniusz Ferens {askaniusz-ferens-linkedin}
-* Anna Maszybrocka {anna-maszybrocka-linkedin}
-
-|{counter:index-2024}| IT Risk Management - Governance
-a|* Justyna Chochla-Wojdyła {justyna-chochla-wojdyla-linkedin}
-
-|{counter:index-2024}| Risk Management - Operational Risk Management
-a|* Katarzyna Nowrot {katarzyna-nowrot-linkedin}
-
-|{counter:index-2024}| Risk Management - Compliance
-a|* Kamila Juszczyk {kamila-juszczyk-linkedin}
-
-|{counter:index-2024}| Risk Management - Audits
-a|* Karolina Sieruga {karolina-sieruga-linkedin}
-
-|{counter:index-2024}| Identity and Access Management
-a|* Paweł Matyszok {pawel-matyszok-linkedin}
-
-|{counter:index-2024}| Password vaults
-a|* Mateusz Kozieł {mateusz-koziel-linkedin}
-
-|{counter:index-2024}| Cryptography - Basics
-a|* Jacek Kocyba {jacek-kocyba-linkedin}
-
-|{counter:index-2024}| Shadow IT
-a|* Jacek Kocyba {jacek-kocyba-linkedin}
-
-|{counter:index-2024}| Vulnerability Assessment
-a|* Łukasz Jankowski {lukasz-jankowski-linkedin}
-* Damian Krawczyk {damian-krawczyk-linkedin} {damian-krawczyk-website}
-
-|{counter:index-2024}| Vulnerability Assessment for containers
-a|* Krzysztof Kozak {krzysztof-kozak-linkedin}
-* Łukasz Galos {lukasz-galos-linkedin}
-
-|{counter:index-2024}| Secure Configuration Monitoring
-a|* Maciej Wróbel {maciej-wrobel-linkedin}
-
-|{counter:index-2024}| Secure Software Development Lifecycle Management
-a|* Maciej Wróbel {maciej-wrobel-linkedin}
-
-|{counter:index-2024}| Introduction to Offensive tooling
-a|* Michał Kucharski {michal-kucharski-website}
-
-|{counter:index-2024}| OSINT in the service of Offensive Security
-a|* Maciej Pypeć {maciej-pypec-linkedin}
-
-|{counter:index-2024}| Offensive Cybersecurity - Red Teaming theory
-a|* Jakub Plusczok {jakub-plusczok-linkedin}
-
-|{counter:index-2024}| Offensive Cybersecurity - Red Teaming workshop
-a|* Jakub Plusczok {jakub-plusczok-linkedin}
-
-|{counter:index-2024}| Offensive Cybersecurity - DDOS
-a|* Gerard Żmuda {gerard-zmuda-linkedin}
-
-|{counter:index-2024}| Defensive Cybersecurity - Threat Hunting
-a|* Jakub Szumera {jakub-szumera-linkedin}
-
-|{counter:index-2024}| Defensive Cybersecurity - SIEM + SOAR + Proxy
-a|* Daniel Jeczeń {daniel-jeczen-linkedin}
-
-|{counter:index-2024}| Defensive Cybersecurity - Malware Analysis
-a|* Mirosław Koczenasz
-
-|{counter:index-2024}| Building ETL for Security data
-a|* Michał Kocur {michal-kocur-linkedin}
-
-|{counter:index-2024}| Security data processing automation
-a|* Piotr Furmaniak {piotr-furmaniak-linkedin}
-* Adam Majstrak {adam-majstrak-website}
-
-|{counter:index-2024}| Introduction to Azure Public Cloud
-a|* Rafał Nowakowski {rafal-nowakowski-linkedin}
-|===
-
-[#lectures-timetable-2024]
-=== lectures timetable
-
-++++
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FWarsaw&showTitle=1&title=CRC%20Cybersecurity%202024&showPrint=0&mode=AGENDA&hl=en_GB&showCalendars=0&showTabs=0&showDate=0&showNav=0&showTz=0&src=23a824a3917660f5a5c3aac192bda4cdbe407eb4054cec704ab4de953ed4dc9c%40group.calendar.google.com&color=%23EF6C00" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
-++++
-
-[TIP]
-====
-To subscribe and have always up-to-date schedule in your smartphone 📲.
-
-- click btn:[+ Google Calendar] button above, if you are on Android.
-
-- click https://calendar.google.com/calendar/ical/23a824a3917660f5a5c3aac192bda4cdbe407eb4054cec704ab4de953ed4dc9c%40group.calendar.google.com/public/basic.ics[HERE] or copy below address of *CRC Cybersecurity 2024* calendar in iCal format if you are on iPhone.
-
-
+https://cybersecuritystream.github.io[kbd:[cybersecuritystream.github.io]]
 ====
 
-----
-https://calendar.google.com/calendar/ical/23a824a3917660f5a5c3aac192bda4cdbe407eb4054cec704ab4de953ed4dc9c%40group.calendar.google.com/public/basic.ics
-----
+
+// [cols=".^2,3",align="center"]
+// |===
+// | *Number of hours*     | `40 hours`
+// | *Number of meetings*  | `8 meetings, 8 Saturdays`
+// | *Form of meeting*     | `on-line`
+// | *Schedule*
+// a|
+// * `2024-03-02 09:00-14:10 +0100 (CET)` `DAY 1/8` +
+// * `2024-03-09 09:00-14:00 +0100 (CET)` `DAY 2/8` +
+// * `2024-03-16 09:00-14:50 +0100 (CET)` `DAY 3/8` +
+// * `2024-03-23 09:00-16:00 +0100 (CET)` `DAY 4/8` +
+// * `2024-04-06 09:00-13:40 +0200 (CEST)` `DAY 5/8` +
+// * `2024-04-13 09:00-14:40 +0200 (CEST)` `DAY 6/8` +
+// * `2024-04-20 09:00-14:50 +0200 (CEST)` `DAY 7/8` +
+// * `2024-04-27 09:00-16:00 +0200 (CEST)` `DAY 8/8` +
+// * `2024-05-11 10:00-11:00 +0200 (CEST)` `FINAL EXAM`
+//
+// |===
+//
+// [cols="^.^1,.^10,.^6",align="center"]
+// |===
+// | ^|Topic              ^|Trainer
+//
+// |{counter:index-2024}| Kickoff meeting
+// a|* Łukasz Jankowski {lukasz-jankowski-linkedin}
+// * Damian Krawczyk {damian-krawczyk-linkedin} {damian-krawczyk-website}
+//
+// |{counter:index-2024}| Cyber awareness
+// a|* Sławomir Staciwa {slawomir-staciwa-linkedin}
+//
+// |{counter:index-2024}| Data Protection - Compliance
+// a|* Dagmara Adamczyk {dagmara-adamczyk-linkedin}
+//
+// |{counter:index-2024}| IT Risk Management - Basics
+// a|* Askaniusz Ferens {askaniusz-ferens-linkedin}
+// * Anna Maszybrocka {anna-maszybrocka-linkedin}
+//
+// |{counter:index-2024}| IT Risk Management - Governance
+// a|* Justyna Chochla-Wojdyła {justyna-chochla-wojdyla-linkedin}
+//
+// |{counter:index-2024}| Risk Management - Operational Risk Management
+// a|* Katarzyna Nowrot {katarzyna-nowrot-linkedin}
+//
+// |{counter:index-2024}| Risk Management - Compliance
+// a|* Kamila Juszczyk {kamila-juszczyk-linkedin}
+//
+// |{counter:index-2024}| Risk Management - Audits
+// a|* Karolina Sieruga {karolina-sieruga-linkedin}
+//
+// |{counter:index-2024}| Identity and Access Management
+// a|* Paweł Matyszok {pawel-matyszok-linkedin}
+//
+// |{counter:index-2024}| Password vaults
+// a|* Mateusz Kozieł {mateusz-koziel-linkedin}
+//
+// |{counter:index-2024}| Cryptography - Basics
+// a|* Jacek Kocyba {jacek-kocyba-linkedin}
+//
+// |{counter:index-2024}| Shadow IT
+// a|* Jacek Kocyba {jacek-kocyba-linkedin}
+//
+// |{counter:index-2024}| Vulnerability Assessment
+// a|* Łukasz Jankowski {lukasz-jankowski-linkedin}
+// * Damian Krawczyk {damian-krawczyk-linkedin} {damian-krawczyk-website}
+//
+// |{counter:index-2024}| Vulnerability Assessment for containers
+// a|* Krzysztof Kozak {krzysztof-kozak-linkedin}
+// * Łukasz Galos {lukasz-galos-linkedin}
+//
+// |{counter:index-2024}| Secure Configuration Monitoring
+// a|* Maciej Wróbel {maciej-wrobel-linkedin}
+//
+// |{counter:index-2024}| Secure Software Development Lifecycle Management
+// a|* Maciej Wróbel {maciej-wrobel-linkedin}
+//
+// |{counter:index-2024}| Introduction to Offensive tooling
+// a|* Michał Kucharski {michal-kucharski-website}
+//
+// |{counter:index-2024}| OSINT in the service of Offensive Security
+// a|* Maciej Pypeć {maciej-pypec-linkedin}
+//
+// |{counter:index-2024}| Offensive Cybersecurity - Red Teaming theory
+// a|* Jakub Plusczok {jakub-plusczok-linkedin}
+//
+// |{counter:index-2024}| Offensive Cybersecurity - Red Teaming workshop
+// a|* Jakub Plusczok {jakub-plusczok-linkedin}
+//
+// |{counter:index-2024}| Offensive Cybersecurity - DDOS
+// a|* Gerard Żmuda {gerard-zmuda-linkedin}
+//
+// |{counter:index-2024}| Defensive Cybersecurity - Threat Hunting
+// a|* Jakub Szumera {jakub-szumera-linkedin}
+//
+// |{counter:index-2024}| Defensive Cybersecurity - SIEM + SOAR + Proxy
+// a|* Daniel Jeczeń {daniel-jeczen-linkedin}
+//
+// |{counter:index-2024}| Defensive Cybersecurity - Malware Analysis
+// a|* Mirosław Koczenasz
+//
+// |{counter:index-2024}| Building ETL for Security data
+// a|* Michał Kocur {michal-kocur-linkedin}
+//
+// |{counter:index-2024}| Security data processing automation
+// a|* Piotr Furmaniak {piotr-furmaniak-linkedin}
+// * Adam Majstrak {adam-majstrak-website}
+//
+// |{counter:index-2024}| Introduction to Azure Public Cloud
+// a|* Rafał Nowakowski {rafal-nowakowski-linkedin}
+// |===
+//
+// [#lectures-timetable-2024]
+// === lectures timetable
+//
+// ++++
+// <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FWarsaw&showTitle=1&title=CRC%20Cybersecurity%202024&showPrint=0&mode=AGENDA&hl=en_GB&showCalendars=0&showTabs=0&showDate=0&showNav=0&showTz=0&src=23a824a3917660f5a5c3aac192bda4cdbe407eb4054cec704ab4de953ed4dc9c%40group.calendar.google.com&color=%23EF6C00" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+// ++++
+//
+// [TIP]
+// ====
+// To subscribe and have always up-to-date schedule in your smartphone 📲.
+//
+// - click btn:[+ Google Calendar] button above, if you are on Android.
+//
+// - click https://calendar.google.com/calendar/ical/23a824a3917660f5a5c3aac192bda4cdbe407eb4054cec704ab4de953ed4dc9c%40group.calendar.google.com/public/basic.ics[HERE] or copy below address of *CRC Cybersecurity 2024* calendar in iCal format if you are on iPhone.
+//
+//
+// ====
+//
+// ----
+// https://calendar.google.com/calendar/ical/23a824a3917660f5a5c3aac192bda4cdbe407eb4054cec704ab4de953ed4dc9c%40group.calendar.google.com/public/basic.ics
+// ----
 
 
 [#2023]
